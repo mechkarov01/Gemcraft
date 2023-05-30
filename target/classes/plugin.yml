@@ -1,0 +1,17 @@
+name: Gemcraft
+version: 1.0-SNAPSHOT
+main: me.mechkarov.gemcraft.Gemcraft
+api-version: 1.13
+authors: [Mechkarov]
+description: Non-TNT based factions server
+commands:
+  freesapphire:
+    description: gives sapphires
+    usage: /<command>
+  freegems:
+    description: gives gems
+    usage: /<command>
+  raidshop:
+    description: open the shop
+    usage: /<command>
+
